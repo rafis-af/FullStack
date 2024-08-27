@@ -1,0 +1,57 @@
+
+
+
+h1 {
+
+    color: black;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    border: 5px solid black;
+
+  }
+
+
+
+
+
+  
+h3 {
+    
+    color:crimson;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    border: double;
+
+}
+
+h4 {
+    
+    color:blueviolet;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+
+}
+
+
+ul {
+    
+    border: dotted black
+
+}
+
+iframe {
+    
+    border: 5px solid black
+
+}
+
+img {
+    
+    border: 5px solid black
+
+}
+
+a:hover{color:pink}
+
+.classe_cinza {background-color: black;}
+
+
+
