@@ -1,0 +1,100 @@
+
+
+#fundo {
+
+    background-color:lightgray;
+
+
+
+}
+
+
+#cabecalho {
+
+    text-align: center;
+    color: darkgreen;
+    padding: 75px;
+    background-color: bisque;
+    border: solid 2px darkblue; 
+
+}
+
+#c {
+
+    height: 150px;
+    width: 150px;
+    position: absolute ;
+    top: 25px;        
+
+}
+
+#java {
+
+    height: 150px;
+    width: 150px;
+    position: absolute ;
+    top: 25px;  
+    right:0%
+}
+
+h5 {
+
+    background-color: lightskyblue;
+    color:darkred;
+
+
+}
+
+#home {
+
+    position: absolute;
+    left:550px;
+    top:200px;
+   
+
+}
+
+#livros {
+
+    position: absolute;
+    left: 700px;
+    top: 200px;
+
+
+
+}
+
+#videos {
+
+    position: absolute;
+    right: 700px;
+    top: 200px;
+
+}
+
+#contatos {
+
+    position: absolute;
+    right: 550px;
+    top: 200px;
+
+}
+
+h2 {
+
+text-align: center;
+
+
+}
+
+.introducao {
+
+
+    text-align: center;
+    color:indigo;
+    font-family:sans-serif;
+    font-size: large;
+
+}
+
+
