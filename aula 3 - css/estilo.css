@@ -1,0 +1,100 @@
+
+
+.solid {
+
+    border: solid 2px red;
+
+}
+
+.dotted {
+
+    border: dotted 2px red;
+
+}
+
+div, a {
+    
+    width:  50px;
+    height: 50px;
+    margin: 10px;
+    padding: 10px;
+    
+}
+
+a {
+
+    display: block;
+    
+}
+
+
+#elemento1 {
+
+    position: absolute;
+    top: 30px;
+    left: 50%;
+
+}   
+
+#elemento2 {
+
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    z-index: 3;
+
+}
+
+#elemento3 {
+
+    position: relative;
+    bottom: 30px;
+    left: 30px;
+
+}
+
+
+a:visited {
+
+    color:crimson;
+
+}
+
+a:hover {
+
+    background-color: greenyellow;
+
+}
+
+.blue {
+
+
+    background-color: blue;
+    width: 100%;
+    z-index: 1;
+}
+
+.blue:hover {
+
+    background-color:darkblue;
+
+
+}
+
+
+
+.red {
+
+
+    background-color: red;
+    width: 100%;
+    z-index: 2;
+
+} 
+
+.red:hover {
+
+    background-color:darkred;
+
+
+}
