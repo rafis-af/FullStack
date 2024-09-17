@@ -1,0 +1,38 @@
+
+.flex-container {
+
+    height: 400px;
+    background-color:burlywood;
+    display: flex;
+    flex-direction:row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+
+}
+
+
+.flex-container div {
+
+    background-color:cadetblue;
+    padding: 10px;
+    margin: 10px;
+
+
+}
+
+
+#d1 {
+
+    order: 2;
+    flex-grow: 1;
+
+}
+
+#d2 {
+
+    order: 1;
+    flex-grow: 2;
+
+}
+
