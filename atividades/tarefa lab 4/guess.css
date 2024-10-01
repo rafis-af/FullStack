@@ -1,0 +1,27 @@
+
+body {
+
+    background-color: gainsboro;
+
+}
+
+h1 {
+
+    text-align: center;
+
+}
+
+.numero {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.clique {
+
+    display: flex;
+    justify-content: center;
+
+}
+

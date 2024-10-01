@@ -1,0 +1,54 @@
+
+
+body {
+
+    background-color: whitesmoke;
+
+}
+
+h1 {
+
+    display: flex;
+    justify-content: center;
+    padding:50px;
+
+}
+
+.usuario {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.login {
+
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+
+}
+
+.senha {
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.cadastro {
+
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+
+}
+
+.limpar {
+    
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+
+
+}
