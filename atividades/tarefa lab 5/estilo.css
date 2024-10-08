@@ -1,0 +1,24 @@
+
+#casinha{
+
+    background-color: aquamarine;
+    
+}
+
+#casa {
+
+    display: flex;
+    justify-content: center;
+}
+
+#canvas {
+
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
