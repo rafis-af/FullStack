@@ -1,0 +1,83 @@
+
+
+   body {
+    
+    
+    background-image: url('jhUhXn0.jpg') ;
+
+
+
+}
+
+   .img1 {
+
+    text-align: center;
+    
+} 
+   
+
+   h1  {
+
+    color:whitesmoke;
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    text-align: center;
+    border-bottom: 4px solid whitesmoke;
+   }
+
+
+   h3 {
+
+
+    color:whitesmoke;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+
+ul {
+
+    color:whitesmoke;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+a:visited {
+
+    color:yellow
+
+
+
+}
+
+
+a:hover {
+
+    color:aqua
+
+
+
+}
+
+#centralizado {
+
+    text-align: center;
+
+
+}
+
+#linha {
+
+    border-bottom: 4px solid whitesmoke;
+
+
+}
+
+
+#projetos {
+
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+
+}

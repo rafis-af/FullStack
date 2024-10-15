@@ -1,4 +1,12 @@
 
+body {
+
+    background-color:bisque;
+
+
+}
+
+
 #casinha{
 
     background-color: aquamarine;
@@ -13,6 +21,13 @@
 
 #canvas {
 
+    background-color: white;
+
+}
+
+
+#canva {
+
     display: flex;
     justify-content: center;
 }
@@ -20,5 +35,31 @@
 h2 {
 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+a:visited {
+
+    color:yellow
+
+
+
+}
+
+
+a:hover {
+
+    color:aqua
+    
+
+
+}
+
+#projetos {
+
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
 
 }
