@@ -101,7 +101,7 @@
     display: flex;
     justify-content: center;
     margin: 100px;
-    font-size: 65px;
+    font-size: 50px;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color:rgb(19, 19, 131)
 }
@@ -129,5 +129,38 @@
 .img5 {
 
     margin: 30px;
+
+}
+
+.projetos {
+
+    color: orange;
+    position: relative;
+    font-size: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    left:70px;
+    padding: 50px;
+    overflow-x: hidden;
+}
+
+.robofei {
+
+    position:relative;
+
+
+}
+
+.institucionais {
+
+    display: flex;
+    justify-content: center;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: gray;
+}
+
+#a {
+
+    margin: 30px;
+
 
 }
