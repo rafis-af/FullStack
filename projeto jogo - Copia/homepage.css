@@ -1,0 +1,70 @@
+body {
+    background-image: url(fundo_home.gif);
+    background-size: cover;
+}
+
+@font-face {
+    font-family: 'pixel';
+    src:local(pixel),  url(Retro\ Gaming.ttf);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'fonte-personalizada';
+    src:local(fonte-personalizada), url(04B_30__.TTF);
+    font-weight: 100;
+}
+
+h1 {
+    font-family:'fonte-personalizada';
+    text-align: center;
+    color: lightslategray;
+    text-decoration: underline;
+}
+
+h2 {
+    font-family:'fonte-personalizada';
+    text-decoration: underline;
+    color: white;
+}
+
+#sobre {
+    border: 1px solid white;
+    border-radius: 12px;
+    padding: 5px;
+    width: 27%;
+    padding: 1px;
+}
+
+#snake {
+    font-family: 'pixel';
+    color: white;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 10px;
+    width: 125px;
+}
+
+li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    font-family: 'pixel';
+}
+
+li a:hover {
+    background-color: lightslategray;
+    color: white;
+    font-family: 'pixel';
+}
+
+#cobra_verde {
+
+    display: flex;
+    justify-content: end;
+    flex-wrap: wrap;
+}
+
