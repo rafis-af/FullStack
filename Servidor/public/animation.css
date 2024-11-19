@@ -1,0 +1,46 @@
+body {
+
+    background-color:darkgray
+
+}
+
+
+#canva {
+    
+    display: flex;
+    justify-content: center;    
+    padding: 30px;
+    color: black;
+    
+
+}
+#canvas {
+
+    background-color:dimgray
+}
+
+a:visited {
+
+    color:yellow
+
+
+
+}
+
+
+a:hover {
+
+    color:aqua
+
+
+
+}
+
+#projetos {
+
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+
+}

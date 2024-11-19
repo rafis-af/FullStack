@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Banco de dados</title>
+    </head>
+    <body>
+        <h1>Banco de dados</h1>
+        <h2>CREATE</h2>
+        <form method="get" action="/cadastrar_livro">
+            <p>Nome do livro: <input type="text" name="cadastra_nome"></p>
+            <p>Nome do autor: <input type="text" name="cadastra_autor"></p>
+            <p>ISBN: <input type="number" name="cadastra_isbn"></p>
+            <p>Editora: <input type="text" name="cadastra_editora"></p>
+            <p>Data lançamento: <input type="date" name="cadastra_data"></p>
+            <input type="submit" value="Cadastrar">
+        </form>
+
+        <h2>READ</h2>
+        <form method="get" action="/buscar_livro_nome">
+            <p>Buscar por nome: <input type="text" name="nome"></p>
+            <input type="submit" value="buscar">
+        </form>
+        <form method="get" action="/buscar_livro_isbn">
+            <p>Buscar por ISBN: <input type="number" name="isbn"></p>
+            <input type="submit" value="buscar">
+        </form>
+
+        <h2>UPDATE</h2>
+        <form method="get" action="/atualizar_editora_livro">
+            <p>ISBN: <input type="number" name="isbn"></p>
+            <p>Editora: <input type="text" name="editora"></p>
+            <input type="submit" value="Atualizar editora">
+        </form>
+    </body>
+</html>
